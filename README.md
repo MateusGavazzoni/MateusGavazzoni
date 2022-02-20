@@ -5,6 +5,7 @@ I studied Python, and I am currently learning about HTML, CSS and JavaScript.
 - 👋 Hi, I’m <b> Mateus Radko Gavazzoni </b>
 - 👀 I’m interested in <b>learn and share new knowlodge</b>
 - 🌱 I’m currently learning <b>HTML 5, CSS 3 and JavaScript</b>
+- 👨🏼‍💼 <b> Open to Work </b>
 - 📫Pease contact me on <a href="https://www.linkedin.com/in/mateus-radko-gavazzoni-507641130/" target="_blank">Linkedin</a>
 
 <div style="display: inline_block"><br>
