@@ -23,6 +23,6 @@ I studied Python, and I am currently learning about HTML, CSS and JavaScript.
 ##
 
 <div>
-  ![Snake animation](https://github.com/rafaballerini/MateuGavazzoni/blob/output/github-contribution-grid-snake.svg)
+  ![Snake animation](https://github.com/MateusGavazzoni/MateuGavazzoni/blob/output/github-contribution-grid-snake.svg)
  
 </div>
